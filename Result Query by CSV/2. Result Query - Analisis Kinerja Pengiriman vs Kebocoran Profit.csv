@@ -1,0 +1,5 @@
+shipping_mode,total_orders,avg_late_delivery_rate_pct,avg_delay_days,gross_sales,total_financial_losses,loss_to_sales_ratio_pct
+First Class,27814,95.8,1.0,8964.25,575635.61,10.14
+Second Class,35216,77.57,2.02,11112.67,775333.21,10.85
+Same Day,9737,44.55,0.47,3679.03,207102.9,10.66
+Standard Class,107752,38.5,0.01,32196.48,2325475.63,10.56
