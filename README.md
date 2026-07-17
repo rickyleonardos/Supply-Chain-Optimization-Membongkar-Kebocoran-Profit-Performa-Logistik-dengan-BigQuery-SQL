@@ -8,17 +8,7 @@ Analisis ini dirancang untuk menunjukkan kemampuan berpikir kritis (*critical th
 
 ---
 
-## 📁 Struktur Folder Repositori (GitHub Folder Structure)
+## Studi Kasus Bisnis (Business Case)
 
-Untuk menjaga kerapian repositori ini, file disusun dengan struktur terorganisir berikut:
-
-```text
-dataco-supply-chain-analysis/
-├── README.md                           <-- Dokumen utama portofolio (file ini)
-├── LICENSE                             <-- Lisensi open-source (MIT)
-├── sql/                                <-- Direktori untuk query SQL BigQuery
-│   ├── 01_data_cleaning.sql            <-- Validasi & pembersihan data mentah
-│   ├── 02_shipping_performance.sql     <-- Analisis keterlambatan & kebocoran profit
-│   └── 03_product_risk_analysis.sql    <-- Identifikasi kategori produk berisiko tinggi
-└── dashboards/                         <-- Folder untuk aset visualisasi
-    └── dashboard_preview.png           <-- Tangkapan layar dashboard untuk LinkedIn
+1. Latar Belakang & Masalah (Problem Statement)
+Perusahaan mengalami penurunan margin laba bersih akibat tingginya biaya tidak terduga (losses) dalam pengiriman barang. Manajemen mencurigai adanya inefisiensi pada penentuan kontrak ekspedisi pihak ketiga (3PL) serta tingkat kepuasan pelanggan yang menurun akibat keterlambatan pengiriman (SLA Breach).
