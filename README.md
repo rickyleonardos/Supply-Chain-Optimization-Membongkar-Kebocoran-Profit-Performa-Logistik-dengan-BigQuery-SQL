@@ -1,0 +1,2 @@
+# Supply-Chain-Optimization-Membongkar-Kebocoran-Profit-Performa-Logistik-dengan-BigQuery-SQL
+Proyek SQL di BigQuery untuk optimasi supply chain &amp; cost control retail global. Berhasil memvalidasi data dan membongkar anomali kurir premium (First Class) dengan keterlambatan 95,8% yang menyumbang kebocoran profit hingga 10% dari omzet. Menyajikan data-driven insights dan rekomendasi audit vendor logistik (3PL/Third Party Logistik).
