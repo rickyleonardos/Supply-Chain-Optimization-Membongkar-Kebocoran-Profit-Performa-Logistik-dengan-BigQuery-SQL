@@ -12,3 +12,11 @@ Analisis ini dirancang untuk menunjukkan kemampuan berpikir kritis (*critical th
 
 1. Latar Belakang & Masalah (Problem Statement)
 Perusahaan mengalami penurunan margin laba bersih akibat tingginya biaya tidak terduga (losses) dalam pengiriman barang. Manajemen mencurigai adanya inefisiensi pada penentuan kontrak ekspedisi pihak ketiga (3PL) serta tingkat kepuasan pelanggan yang menurun akibat keterlambatan pengiriman (SLA Breach).
+
+---
+
+2. Tujuan Analisis (Objective)
+   * Melakukan validasi dan pembersihan data transaksi yang eror sebelum dianalisis.
+   * Mengevaluasi kinerja setiap metode pengiriman (Shipping Mode) terhadap ketepatan waktu.
+   * Mengukur dampak finansial (financial leakage) dari masalah logistik dan pembatalan pesanan.
+   * Mengidentifikasi kategori produk (Category Name) yang paling berisiko tinggi menyumbang kerugian perusahaan.  
