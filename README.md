@@ -52,6 +52,7 @@ with cleaned_data as (
 )
   select * from cleaned_data;
 ```
+![Hasil Preview Query](result_query/1_result_query_data_cleaning.png)
 
 Langkah 2: Analisis Kinerja Pengiriman vs Kebocoran Profit
 
@@ -88,6 +89,7 @@ from
 order by
   avg_late_delivery_rate_pct desc;
 ```
+![Hasil Preview Query](result_query/2_result_query_shipping_performance.png)
 
 Langkah 3: Analisis Risiko Kategori Produk
 
@@ -111,6 +113,7 @@ order by
 limit
   5;
 ```
+![Hasil Preview Query](result_query/3_result_query_product_risk_analysis.png)
 
 ---
 
